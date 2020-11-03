@@ -1,2 +1,2 @@
-# Igor
-Code for Robot Igor
+# iGOr
+Code for Robot iGOr
